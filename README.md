@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alxsrdrg
-- 👀 I’m interested in python
+- 👀 I’m interested in python and c++
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on nothing for the moment  
 - 😄 Pronouns: he/him
